@@ -6,6 +6,8 @@ Prior to arriving for Week 1, please make sure you have completed the following 
 
 - [ ] Read through our Program Overview; 
 
+- [ ] Take our Pre-Program Survey, available at:
+
 - [ ] Consider our Guiding Principles; 
 
 - [ ] Get to know our Participant Expectations; 
