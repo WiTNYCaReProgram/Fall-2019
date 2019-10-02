@@ -13,11 +13,7 @@ You can fill it out however you want - digitally via a branch, on paper, with a 
 but we ask that you do some real thinking about what you want from your time with us. There is no correct answer, 
 and the right answer is whatever is most right for you personally. 
 
-When you’ve taken that time and space to decide what your overall goal for your time 
-with us in CaRe, you can take a look at our weekly goal journal, available here: [[link]]. We’ll work 
-through this together over this semester, you don’t need to do anything with it now.
-
-We want to make clear that these documents are tools, and as such, 
+We want to make clear that this document is a tool, and as such, 
 if you’d prefer to think about your goals and track them in a way that works better for you, 
 please feel free to use a method that fits with your workflow. That said, we will ask that you 
 engage with the goal setting and reflective process fully, even if you’re not using our tools.
@@ -55,8 +51,19 @@ CaRe experience as written above, what would that look like for you, or what wou
 - Who would “be there with you”? Who would you want to share this achievement or state of being with?
 
 
+Take a minute to think about your answers to the previous questions. Your overall goal is probably pretty vague, right? If you tried to create a plan to achieve it, maybe you wouldn't know where to start (Or maybe you would, but it would be a very complex plan). Now consider your answers to the questions about skills and knowledge. 
+
+- Prioritize the skills and knowledge you would have in your imagined future. What would you want or need to achieve first? Are there any that are building blocks for others, and should be prioritized first?
+
+
+- Take the first priority skill or piece of knowlege. When would you want to achieve or gain it by?
+
+
+- What steps would you need to take to do it? List them out. 
+
+
+- What resources (time, money, information, etc.) do you need to achieve those steps?
+
+
 *This thought exercise is intended to encourage us to engage with what we really want to achieve in 
-CaRe and beyond, and then break that desire down into different components we can pursue individually. 
-In our first session, we’ll talk briefly about what makes a goal SMART (Specific, Measurable, 
-Achieveable, Realistic, and Time-bound) and how to translate your broad goal described above 
-into a series of SMART, smaller goals we can make headway on every week.*
+CaRe and beyond, and then break that desire down into different components we can pursue individually. For more information on why this refining process is useful, Google "SMART goals" and check it out! Goals that are SMART, or Specific, Measurable, Achieveable, Relevant, and Time-Bound have been shown to be easier to work toward.*
