@@ -8,11 +8,9 @@ LinkedIn, and of course, GitHub.
 Slack is a collaboration platform that the tech and startup sectors are using extensively, and we use it as well to 
 communicate with you, in addition to email. 
 
-1) Join the WiTNY workspace (witny-cunycornell.slack.com) using the link here: TBD 
+1) You will receive an email invitation to join the WiTNY workspace by 4PM on Friday, October 4. If you don't receive it, please check your spam folders. If it's not there, email us at witny@cornell.edu so we can send you another one!
 
-2) When you’ve successfully created your account and joined the workspace - 
-   - Join our #fall2019careprogram channel
-   - Find a tech-related article that is interesting to you and post it in our channel
+2) When you’ve successfully created your account and joined the workspace, you'll be automatically added to our Fall 2019 CaRe channel. When you get there, **find a tech-related article that is interesting to you and post it in our channel.**
 
 If you’d like more information on how to use Slack, check out the Slack help center article for new members, 
 (https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-members). 
