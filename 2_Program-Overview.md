@@ -23,26 +23,38 @@ Maybe you know us from our Summer Guild program, Winternships, or other events? 
 
 We’ll provide you with a full detailed schedule at the first session, but in the meantime, here is our general roadmap for this semester’s CaRe program:
 
-**Week 1: Introductions, Resumes, and Cover Letters**
+**Week 1: Introductions, Storytelling, and Resume Building**
 
-We’ll learn a bit about each other, start our weekly practice of goal setting, and then dive into industry best practices around resumes and cover letters. Volunteer industry professionals will be helping with real-time resume review and cover letter editing. 
+We’ll learn a bit about each other, give an overview to our time together this semester, and then jump right into our first session. Learn the importance and effectiveness of thinking about your story - who you are, how you got here, and what's next for you - and how you can use those components to both shape your job search and write about yourself in resumes and cover letters. 
+
+Location: Both sessions will be held at the CUNY Graduate Center, 365 Fifth Ave.
 
 **Week 2: LinkedIn Utilization and Effective Job Searching**
 
-This session is about using LinkedIn to market yourself and find jobs most effectively, assisted by volunteers and facilitators.
+This session is about using LinkedIn to market yourself and find jobs most effectively, assisted by volunteers and facilitators. Learn how to maximize your reach with a great profile, and establish connections with others who can help you in your career journey.
 
-**Week 3: Professional Communication, Branding, and Networking**
+Location: Afternoon (2-5PM) session will be at Grow with Google, 111 8th Avenue between West 15th and West 16th Streets; Evening (6-9PM) session will be at John Jay College of Criminal Justice, New Building CLSS Student Computer Lab Center, at 524 W. 59th St. 
 
-How do we talk about ourselves and present ourselves best? Then, how do we talk to others about the things that are important to us? We’re going to learn by doing, with a mock networking event as part of the session.
+**Week 3: Personal Branding for the Career**
+
+How do we talk about ourselves and present ourselves best? Then, how do we talk to others most effectively? Starting with an assessment of how others see you and how you see yourself, we will go through building relationships and motivating your target audience for career success. We will wrap up with a discussion of imposter syndrome and how to combat it as you progress in your career.
+
+Location: Both sessions will be held at the CUNY Central offices, 205 E 42nd St.
 
 **Week 4: The Basics of the Behavioral Interview**
 
 We’re going to use what we know about ourselves and what others say about us to crack the code of interviewing - from preparation before, to following up after. After reviewing how interviewing general proceeds, we’ll drill down into the mechanics of the behavioral interview.
 
+Location: Both sessions will be held at the CUNY Graduate Center, 365 Fifth Ave.
+
 **Week 5: Introduction to Technical Interviewing**
 
 The Technical Interview is a unique beast, but one each of us can conquer. We’ll go through the common types of technical interview formats and questions, provide resources to help prep for the standard question types, and then work in groups to practice some problems in real time.
 
+Location: Sessions will be held at various locations. Will be updated when confirmed. 
+
 **Week 6: Mock Interview Process - Resume to Technical Interview**
 
 This is our chance to show off all these skills - this session will utilize extensive pre-work to set up a mock interview day, including a behavioral interview and technical interview. We’re going to navigate through the entire process of selecting a job position to apply for, a cold email with resume and cover letter, scheduling an interview, and then showing up and making the magic happen with interviews in person during the session.
+
+Locations: Both sessions will be held in the Tata Innovation Center at Cornell Tech, 2 West Loop Rd., Roosevelt Island
