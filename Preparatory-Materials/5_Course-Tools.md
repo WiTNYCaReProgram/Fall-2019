@@ -26,3 +26,8 @@ To do so, you can follow the instructions here: https://www.linkedin.com/help/li
 If you have questions or concerns, please feel free to reach out to any of our program staff. 
 Please note, we don’t require you to fill out your profile entirely before you arrive, 
 but having an active and complete profile is always better than an empty one!
+
+
+## GitHub
+
+We will be using GitHub to communicate information and provide documentation during this semester's Career Readiness program. For more information about how we will be using GitHub, check out the [README](/Fall-2019/1_README.md) if you haven't already done so. 
