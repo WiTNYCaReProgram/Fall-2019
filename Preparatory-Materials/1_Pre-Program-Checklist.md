@@ -8,8 +8,6 @@ Prior to arriving for Week 1, please make sure you have completed the following 
 
 - [ ] Take our Pre-Program Survey, available at: 
 
-- [ ] Review our Code of Conduct;
-
 - [ ] Consider our Guiding Principles; 
 
 - [ ] Get to know our Participant Expectations; 
