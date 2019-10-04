@@ -4,7 +4,7 @@ We get a very limited amount of time to cover a lot of things, so we ask that yo
 
 Prior to arriving for Week 1, please make sure you have completed the following list:
 
-- [ ] Read through our [Program Overview;](WiTNYCaReProgram/Fall-2019/2_Program-Overview.md)
+- [ ] Read through our [Program Overview;](../2_Program-Overview.md)
 
 - [ ] Take our Pre-Program Survey, available at: https://airtable.com/shrx2dihBLxmfGD7A 
 
