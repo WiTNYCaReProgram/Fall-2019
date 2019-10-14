@@ -16,7 +16,7 @@ If this is your first time here or if you’re going to start your CaRe program 
 
 Prior to your first week in CaRe, make sure to review the [Preparatory Materials Folder](Fall-2019/Preparatory-Materials) and complete your [Pre-Week 1 Checklist](/Preparatory-Materials/Pre-Program-Checklist.md).
 
-For Week 1 information on resumes and cover letters, visit the Week 1 folder.
+For Week 1 information on resumes and cover letters, visit the [Week 1 folder](Fall-2019/Week-1).
 
 For Week 2 information on LinkedIn and the job search, visit the Week 2 folder. 
 
